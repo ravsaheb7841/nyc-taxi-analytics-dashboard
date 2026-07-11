@@ -123,7 +123,7 @@ The project includes the following SQL analyses:
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/dashboard.png" alt="Dashboard Preview" width="100%">
+  <img src="dashboard/dashboard.jpg" alt="Dashboard Preview" width="100%">
 </p>
 
 ---
@@ -190,19 +190,13 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Sahil**
+**Ravsaheb Bansode**
 
 Aspiring Data Analyst
 
-### Skills
-
-- SQL
-- Python
-- Power BI
-- Excel
-- Looker Studio
-- Data Analysis
-- Business Intelligence
+- LinkedIn: https://www.linkedin.com/in/ravsaheb-bansode/
+- Portfolio: https://ravsaheb-bansode-portfolio.vercel.app/
+- Email: bansoderav@gmail.com
 
 ---
 
