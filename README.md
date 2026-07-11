@@ -1,4 +1,3 @@
-````markdown
 # 🚖 NYC Taxi Analytics Dashboard
 
 <p align="center">
@@ -18,9 +17,7 @@
 
 This project analyzes the **NYC Yellow Taxi Trips 2015** dataset using **Google BigQuery (SQL)** and presents business insights through an interactive **Looker Studio Dashboard**.
 
-The objective is to transform raw taxi trip data into meaningful business insights by performing SQL analysis and visualizing the results through an easy-to-understand dashboard.
-
-This project demonstrates the complete analytics workflow—from data exploration and SQL analysis to dashboard development and business reporting.
+The project follows a complete analytics workflow—from data exploration and SQL analysis to dashboard development and business reporting.
 
 ---
 
@@ -51,11 +48,11 @@ This project demonstrates the complete analytics workflow—from data exploratio
 
 ## 📂 Dataset
 
-**Dataset Name:** NYC Yellow Taxi Trips 2015
+**Dataset:** NYC Yellow Taxi Trips 2015
 
 **Source:** Google BigQuery Public Dataset
 
-### Dataset includes:
+### Dataset Includes
 
 - Pickup & Drop-off Date/Time
 - Trip Distance
@@ -73,20 +70,20 @@ This project demonstrates the complete analytics workflow—from data exploratio
 
 ```text
 NYC Yellow Taxi Dataset
-            │
-            ▼
-     Data Exploration
-            │
-            ▼
-     SQL Analysis (BigQuery)
-            │
-            ▼
-     Business Insights
-            │
-            ▼
- Looker Studio Dashboard
-            │
-            ▼
+        │
+        ▼
+ Data Exploration
+        │
+        ▼
+SQL Analysis (BigQuery)
+        │
+        ▼
+ Business Insights
+        │
+        ▼
+Looker Studio Dashboard
+        │
+        ▼
 Business Intelligence Report
 ```
 
@@ -110,24 +107,20 @@ The project includes the following SQL analyses:
 
 ## 📈 Dashboard Features
 
-The dashboard contains the following KPIs and visualizations:
-
-- Total Trips
-- Total Revenue
-- Average Fare
-- Busiest Hours of the Day
-- Trips by Day of Week
-- Monthly Revenue Trend
-- Payment Method Distribution
-- Vendor Performance
-- Average Fare by Passenger Count
-- Trip Distance Distribution
+- ✅ Total Trips
+- ✅ Total Revenue
+- ✅ Average Fare
+- ✅ Busiest Hours of the Day
+- ✅ Trips by Day of Week
+- ✅ Monthly Revenue Trend
+- ✅ Payment Method Distribution
+- ✅ Vendor Performance
+- ✅ Average Fare by Passenger Count
+- ✅ Trip Distance Distribution
 
 ---
 
 ## 🖼️ Dashboard Preview
-
-> Add your dashboard screenshot in the **dashboard** folder as **dashboard.png**
 
 <p align="center">
   <img src="dashboard/dashboard.png" alt="Dashboard Preview" width="100%">
@@ -138,13 +131,13 @@ The dashboard contains the following KPIs and visualizations:
 ## 💡 Key Insights
 
 - Identified peak taxi demand hours.
-- Analyzed weekly customer travel patterns.
-- Evaluated monthly revenue performance.
+- Analyzed weekly travel patterns.
+- Compared monthly revenue performance.
+- Evaluated payment preferences.
 - Compared vendor performance.
-- Studied customer payment preferences.
-- Analyzed passenger travel behavior.
-- Examined trip distance distribution.
-- Converted SQL analysis into an interactive dashboard.
+- Studied passenger behavior.
+- Analyzed trip distance distribution.
+- Developed an interactive Business Intelligence dashboard.
 
 ---
 
@@ -173,11 +166,11 @@ nyc-taxi-analytics-dashboard/
 ## 🚀 Future Enhancements
 
 - Add interactive dashboard filters
-- Build a real-time dashboard
 - Create pickup and drop-off heat maps
+- Build a real-time dashboard
 - Perform demand forecasting using Machine Learning
 - Compare multiple years of taxi data
-- Enable scheduled dashboard refresh
+- Enable automatic dashboard refresh
 
 ---
 
@@ -185,9 +178,7 @@ nyc-taxi-analytics-dashboard/
 
 The complete Business Intelligence Report is available in:
 
-```text
-report/Business_Intelligence_Report.pdf
-```
+`report/Business_Intelligence_Report.pdf`
 
 ---
 
@@ -199,11 +190,11 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Ravsaheb Bansode**
+**Sahil**
 
 Aspiring Data Analyst
 
-**Skills**
+### Skills
 
 - SQL
 - Python
@@ -218,4 +209,3 @@ Aspiring Data Analyst
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-````
